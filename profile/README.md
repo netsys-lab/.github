@@ -6,13 +6,8 @@
 - [SCION Certificate Authority](https://github.com/netsys-lab/scion-ca) and
   [renew service for endhosts](https://github.com/netsys-lab/scionlab-cert-renewer)
 - [ID-INT](https://github.com/netsys-lab/id-int-spec)
-- Border router improvements
-    - Make the Go reference border router's data plane exchangeable to allow
-      using hardware implementations like the Tofino or XDP from the Go code
-    - BPF implementation of SCION Border Router
-    - Implement AF_XDP as interface between XDP router and Go control plane
-    - Splitting the border router's AES-CMAC validation and forwarding mechanisms
-      to allow more flexible implementation in hardware
+- [eXpress SCION Router (XSR)](https://github.com/netsys-lab/express-scion-router):
+  A SCION border router making use of XDP and P4
 - Extend the [SEED Emulator](https://github.com/seed-labs/seed-emulator) with
   P4/Tofino support
 - [BitTorrent over SCION](https://github.com/netsys-lab/bittorrent-over-scion)
