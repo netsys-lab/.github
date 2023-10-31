@@ -2,7 +2,6 @@
 
 ### Ongoing Work related to SCION
 
-- [Support for Peering Links](https://github.com/scionproto/scion/pull/4299)
 - [SCION Certificate Authority](https://github.com/netsys-lab/scion-ca) and
   [renew service for endhosts](https://github.com/netsys-lab/scionlab-cert-renewer)
 - [ID-INT](https://github.com/netsys-lab/id-int-spec)
@@ -30,3 +29,7 @@
 - [SCION and In-band Network Telemetry Layers for Scapy](https://github.com/lschulz/scapy-scion-int)
 - [SCION support in SEED Emulator](https://github.com/seed-labs/seed-emulator/pull/143)
 - [PAN bindings](https://github.com/lschulz/pan-bindings) for C, C++ and Python
+- [Support for Peering Links](https://github.com/scionproto/scion/pull/4299)
+- [SCION Border Router for Tofino 2](https://github.com/netsys-lab/scion-p4)
+- [SCION packet generator for Tofino 2](https://github.com/netsys-lab/scion-p4/tree/main/tofino-pktgen)
+- [AES encryption and AES-CMAC for Tofino 2](https://github.com/netsys-lab/scion-p4/tree/main/tofino-crypto)
