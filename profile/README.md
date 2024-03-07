@@ -11,7 +11,7 @@
   P4/Tofino support
 - [BitTorrent over SCION](https://github.com/netsys-lab/bittorrent-over-scion)
   improvements and GUI
-- DNS-over-QUIC support for SCION
+- [DNS-over-QUIC support for SCION](https://github.com/netsys-lab/scion-coredns-doq)
 - IPFS over SCION, SCION support in libp2p
 - [Hercules](https://github.com/netsec-ethz/hercules) ongoing work and improvements
 - Deadline-aware Multipath Transport Protocol
