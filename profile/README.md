@@ -24,7 +24,7 @@
 - (completed) [BitTorrent over SCION](https://github.com/netsys-lab/bittorrent-over-scion) (improvements and GUI)
 - (completed) [Hercules](https://github.com/netsec-ethz/hercules) (ongoing work and improvements)
 - (completed) [ioquake3 over SCION](https://github.com/lschulz/ioq3-scion.git)
-- (ongoing) IPFS over SCION, SCION support in libp2p
+- (ongoing) [IPFS over SCION, SCION support in libp2p](https://github.com/netsec-ethz/scion-ipfs)
 - (ongoing) Deadline-aware Multipath Transport Protocol
 - (ongoing) Bitcoin over SCION - Resilience against partitioning and other routing attacks
 
